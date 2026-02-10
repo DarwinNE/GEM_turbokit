@@ -1,0 +1,8 @@
+.DS_Store
+Davide.pretty/.DS_Store
+gerber_export/.DS_Store
+screenshots/.DS_Store
+#auto_saved_files#
+turbokit_replica-backups/
+~turbokit_replica.kicad_pcb.lck
+~turbokit_replica.kicad_sch.lck
