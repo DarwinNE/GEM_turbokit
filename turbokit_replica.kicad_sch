@@ -9285,16 +9285,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Check this"
-		(exclude_from_sim no)
-		(at 127.254 72.644 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "0729a427-99fa-4aa5-a0ee-4500e8950385")
-	)
 	(text "27C4001 EPROMs"
 		(exclude_from_sim no)
 		(at 124.206 16.764 0)
@@ -9305,6 +9295,16 @@
 		)
 		(uuid "4321a68a-d1a1-4673-b806-4318f7eeb6dd")
 	)
+	(text "TK1\n"
+		(exclude_from_sim no)
+		(at 209.296 67.564 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4c88ccec-c81c-4c08-a111-b172df4960fd")
+	)
 	(text "Headers to be connected to the two 274001 \n(512k x 16 bits EPROMs)\n"
 		(exclude_from_sim no)
 		(at 55.626 17.526 0)
@@ -9314,6 +9314,36 @@
 			)
 		)
 		(uuid "80f3c541-57b1-48d9-ba13-e4ab85083923")
+	)
+	(text "TK3\n"
+		(exclude_from_sim no)
+		(at 250.444 67.564 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9e400753-9f7c-41a6-b90a-16e2f4cc40ee")
+	)
+	(text "TK2\n"
+		(exclude_from_sim no)
+		(at 124.46 67.564 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c8b66350-e18b-44dd-951e-e6e32d7b4c1b")
+	)
+	(text "TK4"
+		(exclude_from_sim no)
+		(at 166.37 67.056 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eca26ecd-da05-448b-958c-f396d4fedda6")
 	)
 	(junction
 		(at 115.57 88.9)
@@ -18835,7 +18865,7 @@
 		)
 		(uuid "a773bfd9-0473-42f1-a48a-c15c9a7b1124")
 	)
-	(label "A1E "
+	(label "A1E"
 		(at 16.51 60.96 0)
 		(effects
 			(font
@@ -23864,7 +23894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+BV"
+		(property "Value" "+VB"
 			(at 246.38 105.41 0)
 			(effects
 				(font
@@ -26632,7 +26662,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8fa3e6b5-9e8b-45cd-b5c4-ec323bf49379")
 		(property "Reference" "J1"
 			(at 53.34 21.59 0)
@@ -26642,8 +26671,8 @@
 				)
 			)
 		)
-		(property "Value" "Right EPROM (lower)"
-			(at 53.34 24.13 0)
+		(property "Value" "Right EPROM (IC34 lower)"
+			(at 55.626 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29119,7 +29148,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c3e0e147-ea7c-4ee3-9fd3-ff8fd5d20dd5")
 		(property "Reference" "J2"
 			(at 53.34 72.39 0)
@@ -29129,8 +29157,8 @@
 				)
 			)
 		)
-		(property "Value" "Left EPROM (higher)"
-			(at 53.34 74.93 0)
+		(property "Value" "Left EPROM (IC32 higher)"
+			(at 56.642 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
