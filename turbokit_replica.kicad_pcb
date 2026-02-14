@@ -20157,7 +20157,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1.2054"
+		(gr_text "30.617"
 			(at 205.098 134.5615 90)
 			(layer "User.1")
 			(uuid "156ec843-c6d8-415e-bee1-8737aa807099")
@@ -20195,7 +20195,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5.2185"
+		(gr_text "132.55"
 			(at 136.925 29.075 0)
 			(layer "User.1")
 			(uuid "5ecea46a-b5b7-469d-b325-2bde737d0fa3")
@@ -20233,7 +20233,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "4.2992"
+		(gr_text "109.2"
 			(at 209.925 95 90)
 			(layer "User.1")
 			(uuid "f655fd0c-f88d-455b-82b1-692a1201856c")
