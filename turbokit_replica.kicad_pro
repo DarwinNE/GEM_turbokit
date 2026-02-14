@@ -58,7 +58,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|101725000|103570000|a1a44108-15d5-42a3-a8c4-fba56659455a|c4238c68-1a4d-4de9-8988-cd80af5f599a",
+          "This is normal, as J2 is a connector that will be installed in the back side of the PCB"
+        ],
+        [
+          "courtyards_overlap|127855000|102982500|10673768-28a9-4dd6-977c-87cec31cc806|31e3b6d0-9f68-45fa-ac91-21b664552837",
+          "This is normal, as J1 is a connector that will be installed in the back side of the PCB"
+        ]
+      ],
       "meta": {
         "version": 2
       },

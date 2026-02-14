@@ -21395,7 +21395,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_TE-Connectivity:TE_826576-6_1x06_P3.96mm_Vertical"
+		(property "Footprint" "Connector_Hirose:Hirose_DF63-6P-3.96DSA_1x06_P3.96mm_Vertical"
 			(at 21.59 184.15 0)
 			(effects
 				(font
