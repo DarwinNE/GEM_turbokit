@@ -9295,7 +9295,7 @@
 		)
 		(uuid "4321a68a-d1a1-4673-b806-4318f7eeb6dd")
 	)
-	(text "TK1\n"
+	(text "TK1\n550319"
 		(exclude_from_sim no)
 		(at 209.296 67.564 0)
 		(effects
@@ -9315,7 +9315,7 @@
 		)
 		(uuid "80f3c541-57b1-48d9-ba13-e4ab85083923")
 	)
-	(text "TK3\n"
+	(text "TK3\n550320"
 		(exclude_from_sim no)
 		(at 250.444 67.564 0)
 		(effects
@@ -9325,7 +9325,7 @@
 		)
 		(uuid "9e400753-9f7c-41a6-b90a-16e2f4cc40ee")
 	)
-	(text "TK2\n"
+	(text "TK2\n550317"
 		(exclude_from_sim no)
 		(at 124.46 67.564 0)
 		(effects
@@ -9335,7 +9335,7 @@
 		)
 		(uuid "c8b66350-e18b-44dd-951e-e6e32d7b4c1b")
 	)
-	(text "TK4"
+	(text "TK4\n550318"
 		(exclude_from_sim no)
 		(at 166.37 67.056 0)
 		(effects
