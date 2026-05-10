@@ -3,6 +3,8 @@
 This project is a modern version of the original Turbokit offered by Generalmusic for the S2/S3 series of synthesizers.
 Installing this kit requires a certain degree of modification of the original board of the synth. Do not attempt it if you are not acquainted with such projects.
 
+If you are interested in this project, [read this article, first](http://davbucci.chez-alice.fr/index.php?argument=elettronica/gem_s2/gem_s2.inc).
+
 ## The board
 
 I routed a 4-layer board with stack PWR/signal/signal/GND, that is a little unusual. Here are pictures of the four layers of the version 1.0 of the board.
