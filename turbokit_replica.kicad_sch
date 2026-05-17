@@ -5,9 +5,9 @@
 	(uuid "45382e4d-485a-48f2-9fc5-b3f3131e4b5b")
 	(paper "A4")
 	(title_block
-		(title "Gem Turbokit replica")
-		(date "2025-08-24")
-		(rev "0.1")
+		(title "Gem Turbokit replica, v. 1.1")
+		(date "2026-05-17")
+		(rev "0.2")
 		(company "Davide Bucci")
 	)
 	(lib_symbols
@@ -9396,7 +9396,7 @@
 		)
 		(uuid "4321a68a-d1a1-4673-b806-4318f7eeb6dd")
 	)
-	(text "TK1\n550319"
+	(text "TK1\n550317"
 		(exclude_from_sim no)
 		(at 209.296 67.564 0)
 		(effects
@@ -9416,7 +9416,7 @@
 		)
 		(uuid "80f3c541-57b1-48d9-ba13-e4ab85083923")
 	)
-	(text "TK3\n550320"
+	(text "TK3\n550319"
 		(exclude_from_sim no)
 		(at 250.444 67.564 0)
 		(effects
@@ -9426,7 +9426,7 @@
 		)
 		(uuid "9e400753-9f7c-41a6-b90a-16e2f4cc40ee")
 	)
-	(text "TK2\n550317"
+	(text "TK2\n550318"
 		(exclude_from_sim no)
 		(at 124.46 67.564 0)
 		(effects
@@ -9436,7 +9436,7 @@
 		)
 		(uuid "c8b66350-e18b-44dd-951e-e6e32d7b4c1b")
 	)
-	(text "TK4\n550318"
+	(text "TK4\n550320"
 		(exclude_from_sim no)
 		(at 166.37 67.056 0)
 		(effects
@@ -22151,15 +22151,15 @@
 		(fields_autoplaced yes)
 		(uuid "2a6b5fa2-c164-484c-9feb-d45735db3246")
 		(property "Reference" "U4"
-			(at 208.28 20.32 0)
+			(at 208.28 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "EPROM-550319"
-			(at 208.28 22.86 0)
+		(property "Value" "EPROM"
+			(at 208.28 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25250,15 +25250,15 @@
 		(fields_autoplaced yes)
 		(uuid "6d939349-f093-46c6-8be3-1290af7a2cc7")
 		(property "Reference" "U5"
-			(at 250.19 20.32 0)
+			(at 250.19 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "EPROM-550320"
-			(at 250.19 22.86 0)
+		(property "Value" "EPROM"
+			(at 250.19 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28077,15 +28077,15 @@
 		(fields_autoplaced yes)
 		(uuid "a48ec81d-38f1-4f1a-8994-a8af713f1b12")
 		(property "Reference" "U3"
-			(at 166.37 20.32 0)
+			(at 166.37 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "EPROM-550318"
-			(at 166.37 22.86 0)
+		(property "Value" "EPROM"
+			(at 166.37 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29182,15 +29182,15 @@
 		(fields_autoplaced yes)
 		(uuid "bc3e0196-b38a-490e-a2df-5a6641f9947e")
 		(property "Reference" "U2"
-			(at 124.46 20.32 0)
+			(at 124.46 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "EPROM-550317"
-			(at 124.46 22.86 0)
+		(property "Value" "EPROM"
+			(at 124.46 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31225,7 +31225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+VB"
 			(at 58.42 129.794 0)
 			(effects
 				(font
